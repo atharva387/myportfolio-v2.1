@@ -18,10 +18,11 @@ yarn-error.log*
 
 # env files
 .env*
-
+dist/
 # vercel
 .vercel
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.vscode/
