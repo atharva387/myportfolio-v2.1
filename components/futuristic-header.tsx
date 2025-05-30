@@ -137,7 +137,7 @@ export default function FuturisticHeader() {
         
         className="w-full text-sm px-2 py-1.5"
       >
-        Current Version 2.2
+        Version 2.2
       </Link>
     </DropdownMenuItem>
   </DropdownMenuContent>
